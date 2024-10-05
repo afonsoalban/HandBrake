@@ -1,5 +1,5 @@
 /* Job statistics */
-" (%@ %% of the source file)" = " (%@ %% do arquivo do código fonte)";
+" (%@ %% of the source file)" = " (%@ %% do arquivo de origem)";
 
 /* Preview -> size info label */
 " Scaled To Screen" = " Redimensionado Para Tela";
@@ -127,7 +127,7 @@
 "Cancel Scan" = "Cancelar Varredura";
 
 /* Toolbar Open/Cancel Item */
-"Cancel Scanning Source" = "Cancelar a Fonte de Varredura";
+"Cancel Scanning Source" = "Cancelar Varredura da Origem";
 
 /* Preferences -> Output Name Token */
 "Chapters" = "Capítulos";
@@ -166,7 +166,7 @@
 "Delete Presets" = "Excluir predefinições";
 
 /* Queue Window Details Toolbar Item */
-"Details" = "Destalhes";
+"Details" = "Detalhes";
 
 /* Queue Window When Done Toolbar Item */
 "Do Nothing" = "Fazer nada";
@@ -176,7 +176,7 @@
 "Do you want to overwrite %@?" = "Você quer substituir %@?";
 
 /* Quit Alert -> second button */
-"Don't Quit" = "Não desista.";
+"Don't Quit" = "Não sair.";
 
 /* Touch bar */
 "Done" = "Concluído";
@@ -225,7 +225,7 @@
 "HandBrake can't open the preview." = "O HandBrake não pode abrir a pré-visualização.";
 
 /* Preview -> live preview alert informative text */
-"HandBrake can't playback this combination of video/audio/container format. Do you want to open it in an external player?" = "O HandBrake não pode reproduzir essa combinação de formato de vídeo/áudio/contêiner. Você quer abri-lo em um jogador externo?";
+"HandBrake can't playback this combination of video/audio/container format. Do you want to open it in an external player?" = "O HandBrake não pode reproduzir essa combinação de formato de vídeo/áudio/contêiner. Você quer abri-lo em um tocador externo?";
 
 /* Quit Alert -> informative text */
 "If you quit HandBrake your current encode will be reloaded into your queue at next launch. Do you want to quit anyway?" = "Se você sair do HandBrake, seu código atual será recarregado na sua fila no próximo lançamento. Você quer parar de qualquer maneira?";
@@ -247,10 +247,10 @@
 "Live Preview" = "Visualização ao vivo";
 
 /* Queue undo action name */
-"Move Job in Queue" = "Mova o trabalho na fila";
+"Move Job in Queue" = "Mova tarefa na fila";
 
 /* Queue undo action name */
-"Move Jobs in Queue" = "Mova empregos na fila";
+"Move Jobs in Queue" = "Mova tarefas na fila";
 
 /* Add preset window -> My Presets */
 "My Presets" = "Minhas predefinições";
@@ -262,7 +262,7 @@
 "No image" = "Sem imagem";
 
 /* No comment provided by engineer. */
-"No job selected" = "Nenhum trabalho selecionado";
+"No job selected" = "Nenhuma tarefa selecionada";
 
 /* Main Window -> Info text */
 "No Valid Preset" = "Nenhuma predefinição válida";
@@ -281,12 +281,12 @@
 "One or more file already exists. Do you want to overwrite?" = "Um ou mais arquivos já existem. Você quer substituir?";
 
 /* Preview -> live preview alert default button */
-"Open in external player" = "Aberto em jogador externo";
+"Open in external player" = "Aberto em tocador externo";
 
 /* Main Window Open Toolbar Item
    Toolbar Open/Cancel Item
    Touch bar */
-"Open Source" = "Código-Fonte Aberto";
+"Open Source" = "Abrir arquivos";
 
 /* File already exists alert -> second button
    File already exists in queue alert -> second button */
@@ -294,16 +294,16 @@
 
 /* Main Window Pause Toolbar Item
    Toolbar Pause Item */
-"Pause" = "Pausa";
+"Pause" = "Pausar";
 
 /* Queue -> pause/resume menu
    Toolbar Pause Item
    Touch bar */
-"Pause Encoding" = "Codificação de pausa";
+"Pause Encoding" = "Pausar codificação";
 
 /* Main Window Pause Toolbar Item
    Touch bar */
-"Pause/Resume Encoding" = "Codificação pausa/currículo";
+"Pause/Resume Encoding" = "Pausar/retomar codificação";
 
 /* Job statistics */
 "Paused time:" = "Tempo pausado:";
@@ -368,44 +368,44 @@
 "Quit" = "Sair";
 
 /* Queue Window When Done Toolbar Item */
-"Quit HandBrake" = "Desista do Freio de Mão";
+"Quit HandBrake" = "Sair do HandBrake";
 
 /* Touch bar */
 "Remaining Time" = "Tempo Restante";
 
 /* Queue Window Action Toolbar Item */
-"Remove All Jobs" = "Remover todos os trabalhos";
+"Remove All Jobs" = "Remover todas as tarefas";
 
 /* Queue Window Action Toolbar Item */
-"Remove Completed Jobs" = "Remover trabalhos concluídos";
+"Remove Completed Jobs" = "Remover tarefas concluídos";
 
 /* HBQueueItemView -> Remove button accessibility label */
-"Remove job" = "Remova o trabalho";
+"Remove job" = "Remova a tarefa";
 
 /* Queue undo action name */
-"Remove Job From Queue" = "Remover o trabalho da fila";
+"Remove Job From Queue" = "Remover a tarefa da fila";
 
 /* Queue undo action name */
-"Remove Jobs From Queue" = "Remover empregos da fila";
+"Remove Jobs From Queue" = "Remover tarefas da fila";
 
 /* HBQueueItemView -> Encode state accessibility label */
 "Rescanning for editing" = "Reformulando para edição";
 
 /* Queue Window Action Toolbar Item */
-"Reset All Jobs" = "Redefinir todos os empregos";
+"Reset All Jobs" = "Redefinir todos as tarefas";
 
 /* Queue Window Action Toolbar Item */
-"Reset Failed Jobs" = "Redefinir trabalhos com falha";
+"Reset Failed Jobs" = "Redefinir tarefas com falha";
 
 /* Toolbar Pause Item */
-"Resume" = "Currículo";
+"Resume" = "Retomar";
 
 /* Queue -> pause/resume men
    Toolbar Pause Item */
-"Resume Encoding" = "Codificação de currículo";
+"Resume Encoding" = "Retomar codificação";
 
 /* HBQueueItemView -> Reveal button accessibility label */
-"Reveal destination in Finder" = "Revelar destino no Finder";
+"Reveal destination in Finder" = "Revelar pasta no Finder";
 
 /* Job statistics */
 "Run time:" = "Tempo de execução:";
